@@ -1,4 +1,6 @@
 baseURL = 'https://abhishekraturi.ca/'
+uglyURLs = false
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'Abhishek Raturi | Senior SRE & Solutions Engineer'
 theme = 'PaperMod'
