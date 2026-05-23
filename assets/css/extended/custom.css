@@ -1,0 +1,50 @@
+/* Force pitch black background and white text globally */
+:root, .dark, body, body.dark {
+    --theme: #000000 !important;
+    --entry: #000000 !important;
+    --primary: #ffffff !important;
+    --secondary: #d1d5db !important;
+    --tertiary: #71717a !important;
+    --content: #ffffff !important;
+    --hljs-bg: #09090b !important;
+    --code-bg: #18181b !important;
+    --border: #27272a !important;
+    background-color: #000000 !important;
+    background: #000000 !important;
+    color: #d1d5db !important;
+}
+
+/* Header and navigation styling */
+.header {
+    background-color: #000000 !important;
+    border-bottom: 1px solid var(--border) !important;
+}
+
+.logo a, .nav-links a {
+    color: #ffffff !important;
+}
+
+/* Post entries and cards */
+.first-entry, .post-entry {
+    background: #000000 !important;
+    border: 1px solid var(--border) !important;
+    box-shadow: none !important;
+}
+
+/* Buttons */
+.button {
+    background: #111115 !important;
+    border: 1px solid var(--border) !important;
+    color: #ffffff !important;
+}
+
+.button:hover {
+    background: #1e1e24 !important;
+    border-color: #52525b !important;
+}
+
+/* Links */
+a {
+    color: #ffffff !important;
+}
+

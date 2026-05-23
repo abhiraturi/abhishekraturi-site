@@ -1,0 +1,51 @@
+baseURL = 'https://abhishekraturi.ca/'
+languageCode = 'en-us'
+title = 'Abhishek Raturi | Senior SRE & Solutions Engineer'
+theme = 'PaperMod'
+
+[params]
+    env = 'production'
+    title = 'Abhishek Raturi'
+    description = 'Senior Site Reliability Engineer & Solutions Engineer based in Toronto, Ontario.'
+
+    # Theme configuration
+    defaultTheme = 'dark'
+    disableThemeToggle = true
+    ShowShareButtons = false
+    ShowReadingTime = true
+    ShowBreadCrumbs = true
+
+    # Homepage Profile Mode Configuration
+    [params.profileMode]
+        enabled = true
+        title = "Abhishek Raturi"
+        # Phone number included in the subtitle to prevent icon errors
+        subtitle = "Senior Site Reliability Engineer & Solutions Engineer | Canadian Permanent Resident  10+ years of progressive IT experience specializing in Observability, Monitoring, and DevOps/SRE practices."
+        imageUrl = ""
+
+        [[params.profileMode.buttons]]
+            name = "View PDF Resume"
+            url = "/resume.pdf"
+
+    # Social Icons
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/abhishekraturi"
+    [[params.socialIcons]]
+        name = "email"
+        url = "mailto:abhishek.raturi6@gmail.com"
+
+# Top Navigation Menu
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 10
+    [[menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 20
+    [[menu.main]]
+        name = "Resume"
+        url = "/resume.pdf"
+        weight = 30

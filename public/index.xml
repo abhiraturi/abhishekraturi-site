@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abhishek Raturi | Senior SRE &amp; Solutions Engineer</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Abhishek Raturi | Senior SRE &amp; Solutions Engineer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Professional Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h1 id=&#34;abhishek-raturi&#34;&gt;Abhishek Raturi&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Toronto, Ontario&lt;/strong&gt; | ☎ +1(437) 556-2793 | ✉ &lt;a href=&#34;mailto:abhishek.raturi6@gmail.com&#34;&gt;abhishek.raturi6@gmail.com&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/in/abhishekraturi&#34;&gt;LinkedIn&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Canadian Permanent Resident&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;technical-profile&#34;&gt;Technical Profile&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI &amp;amp; Automation:&lt;/strong&gt; Vertex AI (GCP), n8n Workflow Automation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cloud &amp;amp; Infrastructure:&lt;/strong&gt; GCP, Oracle Cloud Infrastructure (OCI), AWS, Kubernetes (GKE), Docker, Terraform, Linux, Windows&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Observability &amp;amp; Monitoring:&lt;/strong&gt; Splunk Cloud/ITSI Admin, New Relic Admin, Oracle O&amp;amp;M, Datadog, OpsGenie, Nagios, PagerDuty, Prometheus, Grafana, AWS CloudWatch, APM, Synthetic Monitoring, Distributed Tracing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CI/CD &amp;amp; DevOps:&lt;/strong&gt; GitLab CI/CD, Ansible, JAMS, GitHub, Jenkins&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scripting &amp;amp; Languages:&lt;/strong&gt; Python, Bash, Shell Scripting, SQL, HTML&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SRE Methodologies:&lt;/strong&gt; SLO/SLI Definition, Error Budgets, Incident Management, Capacity Planning, Performance Engineering, FinOps, Golden Signals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h2&gt;
+&lt;h3 id=&#34;senior-site-reliability-engineer&#34;&gt;Senior Site Reliability Engineer&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Questrade&lt;/strong&gt; | &lt;em&gt;Toronto, ON&lt;/em&gt; | &lt;strong&gt;Sep 2023 – Present&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;professional-summary&#34;&gt;Professional Summary&lt;/h3&gt;
+&lt;p&gt;Senior Site Reliability Engineer &amp;amp; Solutions Engineer with 10+ years of progressive IT experience specializing in Observability, Monitoring, and DevOps/SRE practices. Proven expertise in managing enterprise-scale observability platforms (Splunk Cloud/ITSI, Datadog, New Relic, Oracle O&amp;amp;M), implementing SLOs/SLIs and error budgets, and automating reliability workflows using Python and Terraform. Skilled in CI/CD, Infrastructure-as-Code, cloud platforms (AWS, GCP, OCI), and modern SRE methodologies. Adept at driving technical solutions, mentoring teams, and ensuring high system availability and cost-efficient monitoring strategies.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
